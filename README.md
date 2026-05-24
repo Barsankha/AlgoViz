@@ -39,9 +39,9 @@ A modern Flutter application for visualizing algorithms and data structures inte
 - Flutter
 - Dart
 - BLoC State Management
+- HydratedBLoC 
+- SharePlus 
 ```
-
----
 
 ## 📂 Project Structure
 
