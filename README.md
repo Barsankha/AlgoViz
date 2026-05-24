@@ -18,8 +18,10 @@ A modern Flutter application for visualizing algorithms and data structures inte
 ## 📸 Screenshots
 
 | Home Screen | Visualization |
+
 |---|---|
-| Add screenshot here | Add screenshot here |
+| <img width="444" height="856" alt="Screenshot 2026-03-10 210050" src="https://github.com/user-attachments/assets/7116eb7c-e592-423b-a7d7-008db5b5b5b2" /> | 
+<img width="446" height="846" alt="Screenshot 2026-03-10 205630" src="https://github.com/user-attachments/assets/38ade018-f6da-4c96-af39-cf104a85d36e" /> |
 
 ---
 
